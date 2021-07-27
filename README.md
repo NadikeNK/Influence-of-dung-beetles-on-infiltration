@@ -19,7 +19,7 @@ Raw photos of blue dye treated soil pits for each mesocosm (before georectifying
 Matrices of blue dye pattern for each mesocosm (after georectifying and color-coding). Each cell in the matrix represents one mm^2, the cell-values stand for if blue dye was detected (1) or not (0).
 
 - list_experiments_perplot
-Overview of which experiments (infiltration capacity or blue dye) were conducted at what time step (prior, day 1, day 5, day 10) in each mesocosm (with given treatment; soil-only, dung-only, dung-beetles), as well as the rough distance to the river. 
+Overview of which experiments (infiltration capacity or blue dye) were conducted in what time step (prior, day 1, day 5, day 10) in each mesocosm (with given treatment; soil-only, dung-only, dung-beetles), as well as the rough distance to the river. 
 
 
 Nadine Keller, 15.04.2021 (updated on 27.07.2021)
